@@ -1,0 +1,9 @@
+Package: com.fortysixandtwo.nolockclockshadow
+Name: NoLockClockShadow
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Removes the text shadow from the lockscreen clock/date.
+Maintainer: magn2o
+Author: magn2o
+Section: Tweaks
